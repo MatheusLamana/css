@@ -1,2 +1,3 @@
 # css
-Projetos em HTML e CSS
+Projetos em HTML, CSS e JavaScaript.
+
